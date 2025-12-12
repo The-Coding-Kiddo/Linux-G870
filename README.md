@@ -10,7 +10,7 @@ This repo contains my Zsh environment:
 ## Install
 
 ```bash
-git clone git@github.com:The-Coding-Kiddo/Linux-G870.git
+git clone https://github.com:The-Coding-Kiddo/Linux-G870.git
 cd Linux-G870
 ./install.sh
 ```
